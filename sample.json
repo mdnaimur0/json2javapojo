@@ -1,0 +1,50 @@
+{
+    "id": 0,
+    "name": "Naimur",
+    "roll": 12304096,
+    "balance": 2365632.656,
+    "address" : {
+        "code": 1219,
+        "city": "Rampura"
+    },
+    "q": {
+    },
+    "skills" : [
+        "Java", "Python", "Flutter"
+    ],
+    "date": "12/05/2023",
+    "projects": [
+        {
+          "name": "NDITC",
+          "url": "no url",
+          "address": {
+            "code": 1219,
+            "city": "Rampura"
+          }
+        },
+         {
+           "name": "NDITC",
+           "link": "no url",
+           "address": {
+             "code": 1219,
+             "city": "Rampura"
+           }
+         }
+    ],
+    "ajaira_array": [[[[[[[[[[[[[[[[[[[[]]]]]]]]]]]]]]]]]]]],
+    "array": [
+      [
+        {
+            "field1": 0,
+            "field2": "",
+            "field3": [{
+                "field4": 4564,
+                "field5": [
+                    "dgfudgf"
+                ]
+            }
+        ]
+        }
+      ]
+    ]
+}
