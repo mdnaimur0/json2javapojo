@@ -1,50 +1,75 @@
 {
-    "id": 0,
-    "name": "Naimur",
-    "roll": 12304096,
-    "balance": 2365632.656,
-    "address" : {
-        "code": 1219,
-        "city": "Rampura"
-    },
-    "q": {
-    },
-    "skills" : [
-        "Java", "Python", "Flutter"
-    ],
-    "date": "12/05/2023",
-    "projects": [
+  "company": "TechCorp Inc.",
+  "foundedYear": 2000,
+  "ceo": {
+    "name": "Alice Johnson",
+    "age": 45
+  },
+  "departments": [
+    {
+      "name": "Engineering",
+      "head": {
+        "name": "Bob Smith",
+        "age": 40
+      },
+      "employees": [
         {
-          "name": "NDITC",
-          "url": "no url",
-          "address": {
-            "code": 1219,
-            "city": "Rampura"
-          }
-        },
-         {
-           "name": "NDITC",
-           "link": "no url",
-           "address": {
-             "code": 1219,
-             "city": "Rampura"
-           }
-         }
-    ],
-    "ajaira_array": [[[[[[[[[[[[[[[[[[[[]]]]]]]]]]]]]]]]]]]],
-    "array": [
-      [
-        {
-            "field1": 0,
-            "field2": "",
-            "field3": [{
-                "field4": 4564,
-                "field5": [
-                    "dgfudgf"
-                ]
+          "name": "John Doe",
+          "age": 30,
+          "position": "Software Engineer",
+          "projects": [
+            {
+              "name": "Project A",
+              "status": "In Progress"
+            },
+            {
+              "name": "Project B",
+              "status": "Completed"
             }
-        ]
+          ]
+        },
+        {
+          "name": "Jane Smith",
+          "age": 28,
+          "position": "QA Engineer",
+          "projects": [
+            {
+              "name": "Project A",
+              "status": "In Progress"
+            },
+            {
+              "name": "Project C",
+              "status": "Planning"
+            }
+          ]
         }
       ]
-    ]
+    },
+    {
+      "name": "Marketing",
+      "head": {
+        "name": "Eva Williams",
+        "age": 35
+      },
+      "employees": [
+        {
+          "name": "Michael Brown",
+          "age": 32,
+          "position": "Marketing Manager",
+          "projects": [
+            {
+              "name": "Product Launch",
+              "status": "Completed"
+            }
+          ]
+        },
+        {
+          "name": "Olivia Davis",
+          "age": 27,
+          "position": "Social Media Specialist",
+          "projects": []
+        }
+      ]
+    }
+  ]
 }
